@@ -1,0 +1,1 @@
+This is a basic invite list application from a tutorial on Treehouse with my features that I added, such as an alert when the submit is clicked with a blank input field and an alert when a name is entered that was already on the list. 
